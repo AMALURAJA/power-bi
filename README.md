@@ -1,11 +1,11 @@
 # power-bi
 ## Global Sales Report
 
-# Global Sales Report
+### Global Sales Report
 
 This project creates an interactive sales report for a store with branches worldwide. The report segments sales data by country, region, market, city, and state, and analyzes shipping modes.
 
-# Visualizations
+### Visualizations
 
 1. Country Sales
 2. Region Sales
@@ -14,7 +14,7 @@ This project creates an interactive sales report for a store with branches world
 5. State Sales
 6. Shipping Mode Percentage
 
-# Tables
+### Tables
 
 1. Country Sales Table
 2. Region Sales Table
@@ -23,18 +23,18 @@ This project creates an interactive sales report for a store with branches world
 5. State Sales Table
 6. Shipping Mode Table
 
-#Interactive Report
+### Interactive Report
 
 The report allows stakeholders to interact with the data using filters and slicers.
 
-# Video Explanation
+### Video Explanation
 
 A video explaining the visualizations and report functionality is included.
 
-# Dataset
+### Dataset
 
 Insert dataset:Global Sales Report
 
-Tools Used
+### Tools Used
 
 Power BI
